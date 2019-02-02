@@ -1,0 +1,27 @@
+p {
+    font-family: "Verdana", verdana, sans-serif;
+	margin:0px;
+	padding: 0px;
+	text-align: justify;
+	text-indent: 50px;	
+}
+p.titul {
+	margin-bottom: 12px;
+	margin-top: 12px;
+    text-transform: capitalize;
+	text-indent: 0px;	
+	color:red;
+	}
+p.tag {
+	text-indent: 0px;
+	color:blue;
+}
+p.idea {
+	color:navy;
+}
+p.adresa {
+	text-indent: 0px;
+}
+p.autor {
+	text-indent: 0px;
+}
